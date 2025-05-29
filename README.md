@@ -71,16 +71,6 @@ This project implements a **Polynomial Regression** model to predict the price o
 
 ---
 
-## 📌 Suggested Repo Names:
-- `polynomial-regression-car-prices`
-- `car-age-vs-price-prediction`
-- `used-car-price-model`
-
----
-
-## 📸 Example Plot
-*(You can add here a picture of your final plot if you want, optional.)*
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -147,8 +137,6 @@ This project implements a **Polynomial Regression** model to predict the price o
 
 ---
 
-## المؤلف
-
-- [OsamaAt](https://github.com/OsamaAt)
+## المؤلف : OsamaAt
 
 ---
